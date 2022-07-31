@@ -1,2 +1,2 @@
 # press
-this is test for git learn
+ceci est un test pour git learn
